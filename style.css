@@ -459,3 +459,11 @@ button:focus {
     height: inherit;
     width: 75%;
 }
+.copy_right{
+    color: rgba(170, 249, 255, 0.4);
+    font-size: 1rem;
+    padding: 20px 0;
+}
+a:hover{
+    color: #EAF6F6;
+}
